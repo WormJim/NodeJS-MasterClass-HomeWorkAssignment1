@@ -1,2 +1,2 @@
-# NodeJS-MasterClass-HomwerAssignment1
-NodeJS MasterClass HomwerAssignment 1
+# NodeJS-MasterClass-HomeWorkAssignment1
+NodeJS MasterClass HomeWorkAssignment 1
